@@ -10,4 +10,4 @@ This way not really meet the requirements of the task, but better than nothing.
 
 ## How to Run
 
-Simply open index.html file in your browser.
+Simply download the project and open index.html file in your browser.
